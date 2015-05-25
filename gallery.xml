@@ -1,0 +1,11 @@
+<scene>
+
+  <spawn position="0 0 10" />
+
+  <skybox style="color: linear-gradient(#fff, #FF4E50)" />
+
+  <script src="scenequery.js" />
+  <script src="encoder.js" />
+  <script src="gallery.js" />
+
+</scene>

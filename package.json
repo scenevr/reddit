@@ -1,0 +1,12 @@
+{
+  "name": "scene-reddit",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "scenevr ."
+  },
+  "author": "bnolan@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "scenevr": "^1.2.0"
+  }
+}
