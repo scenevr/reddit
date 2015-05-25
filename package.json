@@ -7,6 +7,6 @@
   "author": "bnolan@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "scenevr": "^1.2.0"
+    "scenevr": "1.2.3"
   }
 }
